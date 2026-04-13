@@ -4,7 +4,7 @@ A fully automated data pipeline built on Google Cloud Platform that solves three
 
 1. **Automated Ingestion** — CSV orders land in GCS, Cloud Function loads them into BigQuery automatically
 2. **Data Quality** — BigQuery Stored Procedure validates, cleans and quarantines bad data daily
-3. **BI Chatbot** — Flask + Gemini API chatbot lets non-technical users query BigQuery in plain English
+3. **BI Chatbot** — Gemini API chatbot lets non-technical users query BigQuery in plain English
 
 ---
 
